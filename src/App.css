@@ -1,0 +1,22 @@
+.todoList{
+  background-color: #faebd7;
+}
+.header{
+  height: 50px;
+  background-color: rgb(78, 25, 6);
+  text-align: center;
+  color: antiquewhite;
+  font-size: 25px;
+  font-weight: bolder;
+}
+.button{
+  background-color: rgb(212, 83, 83);
+  color: black;
+  padding: 1px 9px;
+  border: solid 1px;
+  float: right;
+}
+.btn{
+  display: inline-block;
+  background: rgb(126, 150, 79);
+}
