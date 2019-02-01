@@ -1,4 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+##Description
+Click Add box to create a new box with a randon number
+
 
 ## Available Scripts
 
